@@ -1,0 +1,13 @@
+/.venv
+/.idea
+/ResistorLabels.pdf
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+dist/
+build/
+*.spec
+2024statement.csv
+*.csv
