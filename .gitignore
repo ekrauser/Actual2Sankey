@@ -9,5 +9,6 @@ __pycache__/
 dist/
 build/
 *.spec
-2024statement.csv
+statement.csv
 *.csv
+*.png
