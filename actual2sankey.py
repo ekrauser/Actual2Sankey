@@ -114,7 +114,7 @@ fig.add_annotation(
 
 # Step 5: Customize appearance
 fig.update_layout(
-    title_text="2024 Cash Flow",
+    title_text="YTD Cash Flow",
     title_font=dict(size=18, color="white"),
     font=dict(family="Arial", size=12, color="white"),
     plot_bgcolor="#111111",
@@ -122,7 +122,7 @@ fig.update_layout(
 )
 
 # Step 6: Save as a high-quality image using Orca
-output_file = 'financial_sankey_orca.png'
+output_file = 'ActualSankey.png'
 
 try:
     print("Attempting to save image using Orca...")
