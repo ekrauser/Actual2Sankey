@@ -4,4 +4,4 @@ Super simple script that takes the raw output csv from actual budget for the las
 
 You'll need orca installed and added to your PATH - https://github.com/plotly/orca/
 
-No changes needed to the csv before running the script assuming you setup your categories correctly. In my case existing "Debt" is its own category so that gets excluded and displayed as it's own total and "Income" and "Starting Balance" are the only two income sources. 
+No changes needed to the csv before running the script assuming you setup your categories correctly. In my case existing "Debt" is its own category so that gets excluded and displayed as it's own total and "Income" and "Starting Balance" are the only two income sources since I just lump everything together in actual.
